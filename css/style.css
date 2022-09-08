@@ -1,0 +1,16 @@
+.navbarlogo{
+    height: 100px;
+}
+
+.card-img-example{
+    width: auto;
+    height: 300px;
+}
+
+.card-animation{
+    transition:transform 0.5s;
+}
+
+.card-animation:hover {
+    transform: scale(1.1);
+}
